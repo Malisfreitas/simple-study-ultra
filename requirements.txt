@@ -1,0 +1,5 @@
+streamlit
+openai
+google-auth
+google-cloud-firestore
+pillow
